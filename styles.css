@@ -108,3 +108,25 @@
     width: 150px;
     text-align: center;
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    color: #1f2937;
+    background-color: #e5e7eb;
+    padding: 100px 400px;
+    gap: 20px;
+}
+
+.quote-section blockquote {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    align-self: center;
+}
+
+.quote-section figcaption {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
