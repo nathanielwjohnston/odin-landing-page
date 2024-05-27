@@ -73,3 +73,38 @@
     justify-content: center;
     align-items: center;
 }
+
+.info-heading {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding: 8px;
+}
+
+.info-segments {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    padding: 20px;
+}
+
+.info-segment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.info-image {
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.info-subtext {
+    width: 150px;
+    text-align: center;
+}
