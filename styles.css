@@ -144,3 +144,12 @@
 .call-to-action-section .sign-up-button {
     border: 1px solid #e5e7eb;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 30px;
+}
