@@ -130,3 +130,17 @@
     font-weight: bold;
     text-align: right;
 }
+
+.call-to-action-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 6px;
+    margin: 100px 400px;
+    padding: 40px 20px;
+}
+
+.call-to-action-section .sign-up-button {
+    border: 1px solid #e5e7eb;
+}
