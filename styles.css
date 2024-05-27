@@ -20,7 +20,8 @@
     gap: 16px;
 }
 
-.header li {
+.header li a {
     font-size: 18px;
-    color: #e5e7eb
+    color: #e5e7eb;
+    text-decoration: none;
 }
